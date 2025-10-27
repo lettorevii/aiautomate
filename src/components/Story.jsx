@@ -49,12 +49,11 @@ const FloatingImage = () => {
     <div className="min-h-dvh w-screen bg-black text-blue-50">
       <div className="flex size-full flex-col items-center py-10 pb-24">
         <p className="font-general text-sm uppercase md:text-[10px]">
-          Veri Güvenliği
-        </p>
+Data Security        </p>
 
         <div className="relative size-full">
           <AnimatedTitle
-            title=" Veri<b>le</b>rinize Ultra <br /> Koru<b>ma</b>"
+            title=" Yo<b>ur Datas</b> In Ultra <br /> Saf<b>e</b>"
             containerClass="mt-5 pointer-events-none mix-blend-difference relative z-10"
           />
 
@@ -106,12 +105,12 @@ const FloatingImage = () => {
         <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
             <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
-              AI otomasyonu, veri koruma süreçlerini güçlendirir, hassas bilgileri güvenli tutar, riskleri azaltır, uyumluluğu sağlar ve işletmelerin hem veri güvenliği hem de verimlilik hedeflerini destekler.
+              AI automation strengthens data protection processes, keeps sensitive information secure, reduces risks, ensures compliance, and supports businesses' data security and efficiency goals.
             </p>
 
             <Button
               id="realm-btn"
-              title="Otomasyonu Keşfet"
+              title="Feel AUTOMATİON"
               containerClass="mt-5"
             />
           </div>

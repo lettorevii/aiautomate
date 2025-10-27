@@ -124,7 +124,7 @@ const Contact = () => {
           <p className="mb-10 font-general text-[10px] uppercase">Join AI AUTOMATİON</p>
 
           <AnimatedTitle
-            title="Lets Talk  <br />  Hedefine Varma   <br /> Z<b>a</b>manı ."
+            title="Lets Talk  ."
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
 
